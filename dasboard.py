@@ -52,3 +52,7 @@ st.write(resumo_adriana)
 
 st.subheader("Ludovico")
 st.write(resumo_ludovico)
+
+
+
+# python -m streamlit run dasboard.py
